@@ -22,12 +22,12 @@
       "nome": "Estádio Centenário",
       "imagem": "TODO"
     },    
-    "visitante": {
+    "mandante": {
       "nome": "Uruguai",
       "estrelas": 4,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
     },
-    "mandante": {
+    "visitante": {
       "nome": "Brasil",
       "estrelas": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
